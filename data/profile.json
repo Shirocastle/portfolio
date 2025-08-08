@@ -5,7 +5,8 @@
   "location": "-",
   "phone": "(14) 9999 99999",
   "email": "@mail",
-  "skills": {"hardskills":[
+  "skills": {
+    "hardskills":[
     {
       "name": "dotnet",
       "logo": "none"
@@ -33,5 +34,6 @@
     "Trabalho em equipe",
     "Flexibilidade",
     "Organização"
-  ]}
+  ]
+  }
 }
