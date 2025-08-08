@@ -8,23 +8,23 @@
   "skills": [
     {
       "name": "dotnet",
-      "logo": "todo"
+      "logo": "none"
     },
     {
       "name": "js",
-      "logo": "todo"
+      "logo": "none"
     },
     {
       "name": "react",
-      "logo": "todo"
+      "logo": "none"
     },
     {
       "name": "c#",
-      "logo": "todo"
+      "logo": "none"
     },
     {
       "name": "python",
-      "logo": "todo"
+      "logo": "none"
     }
   ],
   "softskills": [
