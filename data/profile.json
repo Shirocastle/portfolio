@@ -1,0 +1,37 @@
+{
+  "name": "Shiro",
+  "photo": "",
+  "job": "",
+  "location": "-",
+  "phone": "(14) 9999 99999",
+  "email": "@mail",
+  "skills": [
+    {
+      "name": "dotnet",
+      "logo": "todo"
+    },
+    {
+      "name": "js",
+      "logo": "todo"
+    },
+    {
+      "name": "react",
+      "logo": "todo"
+    },
+    {
+      "name": "c#",
+      "logo": "todo"
+    },
+    {
+      "name": "python",
+      "logo": "todo"
+    }
+  ],
+  "softskills": [
+    "Empatia",
+    "Liderança",
+    "Trabalho em equipe",
+    "Flexibilidade",
+    "Organização"
+  ]
+}
