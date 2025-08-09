@@ -38,5 +38,13 @@
   },
   "languages":  ["Português BR (nativo)",
     "Inglês (intermediário)",
-    "Espanhol (basico)"]
+    "Espanhol (basico)"
+  ],
+   "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Shirocastle/js-developer-pokedex",
+      "github": true
+    },
+  
 }
