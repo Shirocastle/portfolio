@@ -9,7 +9,7 @@
     "hardskills":[
     {
       "name": "dotnet",
-      "logo": "none"
+      "logo": "https://raw.githubusercontent.com/Shirocastle/portfolio/f57d099232faaf528e8bbbec2bf3eb420fe81889/assets/img/dotnet.svg"
     },
     {
       "name": "js",
