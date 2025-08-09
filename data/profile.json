@@ -13,11 +13,11 @@
     },
     {
       "name": "js",
-      "logo": "none"
+      "logo": "https://raw.githubusercontent.com/Shirocastle/portfolio/a3bd0e80567455524611a196f300b6cc1fef21fc/assets/img/js.svg"
     },
     {
       "name": "react",
-      "logo": "none"
+      "logo": "https://raw.githubusercontent.com/Shirocastle/portfolio/a3bd0e80567455524611a196f300b6cc1fef21fc/assets/img/react.svg"
     },
     {
       "name": "c#",
