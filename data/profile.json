@@ -6,7 +6,7 @@
   "phone": "(12) 9999 9999",
   "email": "-",
   "skills": {
-    "hardSkills": [
+    "hardskills": [
   
       {
         "name": "Dotnet",
@@ -28,7 +28,7 @@
         "name": "Charp",
         "logo": "https://raw.githubusercontent.com/Shirocastle/portfolio/674696cdc256eadc5e5975bb38ba0a2fd242ebbe/assets/img/charp.svg"}
     ],
-    "softSkills": [
+    "softskills": [
       "Empatia",
       "Liderança",
       "Trabalho em equipe",
