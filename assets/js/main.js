@@ -18,7 +18,6 @@ function updateProfile(profileData) {
     phone.href = ` tel:${profileData.phone}`
 
     const email = document.getElementById("profile.email")
-    console.log(email)
     email.innerHTML = profileData.email
     email.href = `$ mailto:${profileData.email}`
 
