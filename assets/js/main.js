@@ -59,6 +59,5 @@ function updateProject(profileData){
     updateHardSkills(profileData)
     updateLanguage(profileData)
     updateProject(profileData)
-    console.log(profileData)
 
 })()
