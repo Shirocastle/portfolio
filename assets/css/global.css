@@ -19,7 +19,7 @@ a{
 
 .main::before {
     content: '';
-    background-image: url("assets/img/bg-top.svg");
+    background-image: url("../img/bg-top.svg");
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -34,7 +34,7 @@ a{
 
 .main::after {
     content: '';
-    background-image: url("assets/img/bg-top.svg");
+    background-image: url("../img/bg-top.svg");
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
